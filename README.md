@@ -17,6 +17,19 @@ This is a simple To-Do List application built using React and containerized usin
 
 ## Getting Started
 
+### Docker architecture
+![image](https://github.com/user-attachments/assets/5aceef3a-4b79-4450-920e-2a293872fd40)
+Docker Architecture
+Docker Client: Interface for users to manage containers and images.
+Docker Daemon: Manages containers and communicates with the client.
+Docker Registry: Stores Docker images (e.g., Docker Hub).
+Docker Images: Read-only templates used to create containers.
+Docker Containers: Lightweight, isolated instances of images.
+Docker Volumes: Persistent storage for container data.
+Docker Networks: Enable communication between containers.
+Docker Compose: Manages multi-container applications using a YAML file.
+
+
 ### Prerequisites
 Make sure you have the following installed on your machine:
 - [Docker](https://www.docker.com/get-started) 

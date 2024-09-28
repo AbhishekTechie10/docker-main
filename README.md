@@ -18,12 +18,12 @@ This is a simple To-Do List application built using React and containerized usin
 ## AWS Services Used
 To enhance the functionality and scalability of this application, the following AWS services are utilized:
 
--Amazon S3: Used for storing static files and hosting the React app.
--AWS Amplify: Simplifies backend services such as authentication, APIs, and storage.
--Amazon RDS: Stores user data and task information in a relational database.
--AWS Lambda: Handles backend logic in a serverless environment for task management.
--AWS CloudFront: Distributes the application globally for low-latency access.
--AWS CloudWatch: Monitors application metrics and logs.
+- Amazon S3: Used for storing static files and hosting the React app.
+- AWS Amplify: Simplifies backend services such as authentication, APIs, and storage.
+- Amazon RDS: Stores user data and task information in a relational database.
+- AWS Lambda: Handles backend logic in a serverless environment for task management.
+- AWS CloudFront: Distributes the application globally for low-latency access.
+- AWS CloudWatch: Monitors application metrics and logs.
 ## Getting Started
 
 ### Docker architecture
